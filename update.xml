@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='hcmkpmhpfdkbbpjhflojceopidhjkimi'>
-    <updatecheck codebase='https://raw.githubusercontent.com/rezunkov/portal-ccOptimiser/main/portal-optimizer.crx' version='1.5' />
+    <updatecheck codebase='https://raw.githubusercontent.com/rezunkov/portal-ccOptimiser/main/%D0%9E%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80%20%D0%92%D0%B5%D0%B1%D0%9A%D0%A6.crx' version='1.5' />
   </app>
 </gupdate>
